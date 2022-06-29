@@ -1,1 +1,2 @@
-merhaba !
+merhaba askerbash: :wq: command not found
+ !
